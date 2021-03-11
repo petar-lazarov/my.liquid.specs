@@ -9,4 +9,4 @@ subdomain: "s2"
 - Do this
 - Do that
 
-{{% include inc.md domain="testspace.com" %}}
+{% include inc.md domain="testspace.com" %}
