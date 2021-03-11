@@ -14,6 +14,6 @@ s2: "[here at s2](https://s2.testspace.com) to verify"
 
 ## Context variables
 
-- ${{ user.name}}
-- ${{project.id}}
-- "${{space.name}}"
+- {{ user.name}}
+- {{project.id}}
+- "{{space.name}}"
