@@ -1,6 +1,6 @@
 ---
 testspace:
-s2: [here at s2](https://s2.testspace.com) to verify
+s2: "[here at s2](https://s2.testspace.com) to verify"
 ---
 
 # Suite One
