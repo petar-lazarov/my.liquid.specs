@@ -11,3 +11,9 @@ s2: "[here at s2](https://s2.testspace.com) to verify"
 ## Case Spec Name
 
 - Show name of the spec: ${{ spec.name}}
+
+## Context variables
+
+- ${{ user.name}}
+- ${{project.id}}
+- "${{space.name}}"
